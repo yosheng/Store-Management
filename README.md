@@ -14,3 +14,30 @@
 
 4. 說明
 > 每位會員註冊後都會產生獨立的資料庫，彼此不會互相干擾，而註冊資料則是統一存放在 admin_db 資料庫中，但是每個商家的產品資料都由個別的資料庫獨立管理，除此之外還有使用響應式設計，不同的裝置都會有自適應的功能。
+
+5. 網站預覽
+ - 登入畫面
+<img src="readme/01.登入畫面.png"> 
+ - 註冊會員
+<img src="readme/02.註冊會員.png">
+ - 最新訊息
+<img src="readme/03.最新訊息.png">
+ - 商家首頁
+<img src="readme/04.商家首頁.png">
+ - 修改密碼
+<img src="readme/05.修改密碼.png">
+ - 修改會員資料
+<img src="readme/06.修改會員資料.png">
+ - 管理庫存
+<img src="readme/07.管理庫存.png">
+ - 修改庫存
+<img src="readme/08.修改庫存.png">
+ - 新增庫存
+<img src="readme/09.新增庫存.png">
+ - 庫存預覽
+<img src="readme/10.庫存預覽.png">
+ - 項目預覽
+<img src="readme/11.項目預覽.png">
+ - 商品預覽
+<img src="readme/12.商品預覽.png">
+

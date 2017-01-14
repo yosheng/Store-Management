@@ -137,7 +137,7 @@
             </div>
             <p><font color="#FF0000">*</font> 表示為必填的欄位</p><!--p文字顯示-->
             <p align="center">
-              <input type="submit" name="join" class="btn btn-primary" value="新增商家" disabled>
+              <input type="submit" name="join" class="btn btn-primary" value="新增商家">
               <!--input輸入格-->
               <input type="reset" name="reset" class="btn btn-primary" value="重設資料">
               <!--clear輸入格-->
